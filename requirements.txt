@@ -1,0 +1,4 @@
+jupyterlab==3.4.4
+numpy==1.26.2
+pandas==2.2.2
+google-api-python-client==2.162.0
